@@ -1,6 +1,8 @@
 # lively-examples
 
-Examples of doing live two-way syncing with leveldb, memory and websockets.
+Examples of doing live two-way syncing with leveldb, memory and websockets,
+using the [livelystream](https://github.com/eugeneware/livelystream) object
+synchronization framework.
 
 ## AngularJS / Websockets Example
 
