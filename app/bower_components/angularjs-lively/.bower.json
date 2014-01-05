@@ -1,0 +1,14 @@
+{
+  "name": "angularjs-lively",
+  "homepage": "https://github.com/eugeneware/angularjs-lively",
+  "_release": "183f869e2b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "183f869e2b20298be396b22aa2689338324e5815"
+  },
+  "_source": "git://github.com/eugeneware/angularjs-lively.git",
+  "_target": "*",
+  "_originalSource": "angularjs-lively",
+  "_direct": true
+}

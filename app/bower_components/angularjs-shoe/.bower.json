@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-shoe",
+  "main": "build/angularjs-shoe.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "homepage": "https://github.com/eugeneware/angularjs-shoe",
+  "_release": "9b0d0530a5",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9b0d0530a52f846b4b13cc6ae1abefb78bc6dd22"
+  },
+  "_source": "git://github.com/eugeneware/angularjs-shoe.git",
+  "_target": "*",
+  "_originalSource": "angularjs-shoe",
+  "_direct": true
+}

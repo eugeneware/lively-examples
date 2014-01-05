@@ -1,0 +1,27 @@
+{
+  "name": "lively-examples",
+  "version": "0.0.1",
+  "description": "Examples of doing live two-way syncing with leveldb, memory and websockets.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/level-examples"
+  },
+  "keywords": [
+    "leveldb", "levelup", "lively", "firedup", "firebase", "sync", "websockets"
+  ],
+  "author": "Eugene Ware <eugene@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/eugeneware/lively-examples/issues"
+  },
+  "dependencies": {
+    "JSONStream": "~0.7.1",
+    "level-lively": "0.0.1",
+    "ecstatic": "~0.4.13",
+    "shoe": "0.0.15",
+    "livelystream": "~2.1.1",
+    "level": "~0.18.0",
+    "observestream": "~1.0.2",
+    "memlively": "0.0.2"
+  }
+}
